@@ -1,0 +1,33 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1{
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+#inp{
+    width: 70%;
+    margin-right: 0px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.add{
+    width: 250px;
+    height: 35px;
+}
+#editInp{
+    width: 60%;
+}
+.box{
+    justify-content:space-evenly;
+    width: 30%;
+    margin: 0 auto;
+}
+.none{
+    display: none;
+}
